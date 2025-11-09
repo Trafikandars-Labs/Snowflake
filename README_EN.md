@@ -2,7 +2,7 @@
 
 A machine for dispersing snowflakes/confetti on stage. 
 
-Work in DMX, 2 channel or 1 channel 
+Work in DMX, 2 channel or 1 channel.
 
 Mode : Shake or Rotation. 
 
