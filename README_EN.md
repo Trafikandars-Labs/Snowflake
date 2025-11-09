@@ -1,14 +1,18 @@
 # Snowflake
 
-A machine for dispersing snowflakes/confetti on stage. 
+Machine for dispersing snowflakes/confetti on stage. Work with DMX.
 
-Work in DMX, 2 channel or 1 channel.
+2 Mode : Shake or Rotation.
 
-Mode : Shake or Rotation. 
+2 channel or 1 channel.
 
-It's almost full 3D Printed, I use PVC Pipe (diam : 100MM - 30cm), magnet, and screw.
+It's almost full 3D Printed, I use PVC Pipe (diam : 100MM, Lenth 32.5mm), magnet, and screw.
 
 BOM : (In construction).
 
-You can buy it from us, fully assembled or kit, or you can do your own.
+You can buy it from us :  fully assembled or kit.
+
+Contact me : come.douville@trafikandars.com
+
+Or make your Own !
 
