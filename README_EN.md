@@ -8,5 +8,7 @@ Mode : Shake or Rotation.
 
 It's almost full 3D Printed, I use PVC Pipe (diam : 100MM - 30cm), magnet, and screw.
 
-BOM : (In construction)
+BOM : (In construction).
+
+You can buy it from us, fully assembled or kit, or you can do your own.
 
